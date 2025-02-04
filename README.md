@@ -5,7 +5,7 @@
     We are the next generation social network in the WEB3.
     <br>
 </h1>
-<a href="https://ibb.co/cTtJ5Nn"><img src="https://i.ibb.co/Yj829ts/logo.jpg" alt="logo" border="0"></a>
+<a href="https://solus.run/"><img src="https://i.ibb.co/Yj829ts/logo.jpg" alt="logo" border="0"></a>
 </a>
 <br/>
 <p align="center">
